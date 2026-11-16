@@ -1,2 +1,4 @@
 # PROG101_Assignment1_IBRAHIM_DONALD_KOROMA_905006604
 School Attendance Support Tracker (SAST) is a simple logical system designed to address school absenteeism in Sierra Leone. Aligned with UN Sustainable Development Goal 4 (Quality Education), the project demonstrates how computational thinking, algorithms, pseudocode, and flowcharts can be used to monitor students' attendance, calculate attendance percentages, and identify learners who may need additional support. It promotes early intervention and improved access to quality education through a simple, accessible, and open-source approach.
+# PROJECT BACKGROUND
+## School absenteeism remains a challenge in many Sierra Leonean communities, affecting students' academic progress. This project proposes a simple system to monitor attendance, calculate attendance rates, and identify students who may need support, contributing to SDG 4 – Quality Education.
