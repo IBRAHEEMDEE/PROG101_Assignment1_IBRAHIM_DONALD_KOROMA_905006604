@@ -22,3 +22,7 @@ School absenteeism remains a challenge in many Sierra Leonean communities, affec
  # PROJECT AUTHOR
  IBRAHIM DONALD KOROMA-DIT1101
  ID: 905006604
+# PROJECT PSEUDOCODE SCREENSHOT
+<img width="842" height="1080" alt="WhatsApp Image 2026-11-16 at 9 58 54 AM" src="https://github.com/user-attachments/assets/8f36fc93-5951-40ea-87f8-d916cd1930c0" />
+# PROJECT FLOWCHART SCREENSHOT
+<img width="1036" height="1080" alt="WhatsApp Image 2026-11-16 at 9 59 52 AM" src="https://github.com/user-attachments/assets/720ace25-cc78-448d-8c88-e30f0531df24" />
