@@ -19,3 +19,6 @@ School absenteeism remains a challenge in many Sierra Leonean communities, affec
 
 
 6. Display Results: The system displays the attendance percentage and the appropriate status, helping teachers identify students who may need assistance.
+ # PROJECT AUTHOR
+ IBRAHIM DONALD KOROMA-DIT1101
+ ID: 905006604
