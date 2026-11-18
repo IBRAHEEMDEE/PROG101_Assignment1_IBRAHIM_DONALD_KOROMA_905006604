@@ -19,10 +19,15 @@ School absenteeism remains a challenge in many Sierra Leonean communities, affec
 
 
 6. Display Results: The system displays the attendance percentage and the appropriate status, helping teachers identify students who may need assistance.
- # PROJECT AUTHOR
- IBRAHIM DONALD KOROMA-DIT1101
- ID: 905006604
+ # SDG ALIGNMENT 
+ The School Attendance Support Tracker (SAST) supports SDG 4, Quality Education, and is most closely linked to Target 4.1, which calls for all girls and boys to complete free, equitable and quality primary and secondary education. By flagging learners with low attendance early, it helps school staff follow up before those learners fall behind or drop out.
+ 
+ 
 # PROJECT PSEUDOCODE SCREENSHOT
 <img width="842" height="1080" alt="WhatsApp Image 2026-11-16 at 9 58 54 AM" src="https://github.com/user-attachments/assets/8f36fc93-5951-40ea-87f8-d916cd1930c0" />
 # PROJECT FLOWCHART SCREENSHOT
 <img width="1036" height="1080" alt="WhatsApp Image 2026-11-16 at 9 59 52 AM" src="https://github.com/user-attachments/assets/720ace25-cc78-448d-8c88-e30f0531df24" />
+
+# PROJECT AUTHOR
+ IBRAHIM DONALD KOROMA-DIT1101
+ ID: 905006604
